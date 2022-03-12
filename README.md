@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meet2304
-- 👀 I’m interested in Website Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
