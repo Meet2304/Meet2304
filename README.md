@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet2304
 - 👀 I’m interested in Web and Android Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript, PHP, Android development in Android Studio.
 - 💞️ I’m looking to collaborate on any entry level project that helps in improving my skills. 
 - 📫 How to reach me @ meetpatel12302@gmail.com
 
