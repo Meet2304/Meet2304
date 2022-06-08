@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web and Android Development.
 - 🌱 I’m currently learning JavaScript, PHP, Android development in Android Studio.
 - 💞️ I’m looking to collaborate on any entry level project that helps in improving my skills. 
+- 👨‍💻 Currently looking for entry level co-op jobs for the duration of 4/8 months starting Fall 2022.
 - 📫 How to reach me @ meetpatel12302@gmail.com
 
 <!---
