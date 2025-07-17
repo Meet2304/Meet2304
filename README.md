@@ -17,7 +17,7 @@ I'm a builder, a researcher, and a restless mind deeply curious about how intell
 - 🌊 Former AI Intern at **Seaweeds**, where I built systems to predict **Harmful Algal Blooms**.
 - 🛸 Builder of a **custom drone** with a self-designed PCB, flight controller, and real-time stabilization algorithms.
 - 🛰️ Researching **predictive maintenance** for rocket engines using multivariate time series and transformer models.
-- 💡 President of **Mind Ripple**, PDEU's quiz and idea club — where we ask the questions Google can’t answer.
+- 💡 Advisor at **Mind Ripple**, PDEU's quizzing and knowledge club — where we ask the questions Google can’t answer.
 
 ---
 
