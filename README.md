@@ -56,9 +56,7 @@ A systems thinker and builder, I dive into the intersection of **intelligence**,
   <img src="https://skillicons.dev/icons?i=github,html,css&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus%20Areas-Deep%20Learning%2C%20Computer%20Vision%2C%20Time%20Series%20Forecasting%2C%20LLMs%2C%20Embedded%20Systems%2C%20Edge%20AI-purple?style=for-the-badge&logo=cosmosdb&logoColor=white">
-</p>
+> 🧠 Focus Areas: Deep Learning, Computer Vision, Time Series Forecasting, LLMs, Embedded Systems, Edge AI  
  
 
 ---
