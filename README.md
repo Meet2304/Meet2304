@@ -30,7 +30,7 @@ A systems thinker and builder, I dive into the intersection of **intelligence**,
 ### 🪐 Projects: My Personal Star System
 
 <p align="center">
-  <img src="https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Banner-1.png" width="80%">
+  <img src="[https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Banner-1.png](https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Personal%20Star%20System.png)" width="80%">
 </p>
 
 > Each project is a planet — orbiting curiosity, purpose, and engineering.
