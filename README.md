@@ -74,7 +74,6 @@ Whether it's a small system or a planetary-scale problem, I explore with tools l
 
 ### 🌍 Let's Connect
 
-- 🌐 [Portfolio Website](#) (coming soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/meet-bhatt-655a89250/)
 - 🐦 [Twitter](https://twitter.com/Meet2304)
 - 📫 Email: meetbhatt2304@gmail.com
@@ -83,12 +82,6 @@ Whether it's a small system or a planetary-scale problem, I explore with tools l
 
 ### 🌌 My Ethos
 
-> _“The edge of discovery is where I build.”_  
-> _“When I can’t find the system, I create it.”_  
-> _“Curiosity. Precision. Purpose.”_
+> _“I am the master of my fate, I am the captain of my soul”_  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meet2304&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
