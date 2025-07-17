@@ -6,7 +6,7 @@
 <h3 align="center">Explorer of Intelligence, Systems & the Unknown</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Scientist-black?style=for-the-badge&logo=starship&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Scientist-black?style=for-the-badge&logo=starship&logoColor=white">
   <img src="https://img.shields.io/badge/IoT%20Engineer-black?style=for-the-badge&logo=satellite&logoColor=white">
   <img src="https://img.shields.io/badge/AI%20Explorer-black?style=for-the-badge&logo=rocket&logoColor=white">
 </p>
