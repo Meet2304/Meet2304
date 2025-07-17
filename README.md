@@ -5,65 +5,63 @@
 <h1 align="center">🌌 Meet Bhatt</h1>
 <h3 align="center">Explorer of Intelligence, Systems & the Unknown</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Scientist-black?style=for-the-badge&logo=starship&logoColor=white">
+  <img src="https://img.shields.io/badge/IoT%20Engineer-black?style=for-the-badge&logo=satellite&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20Explorer-black?style=for-the-badge&logo=rocket&logoColor=white">
+</p>
+
 ---
 
 ### 🧭 About Me
 
 I don’t just write code — I **explore** with it.
 
-I'm a builder, a researcher, and a restless mind deeply curious about how intelligence emerges — in machines, systems, and the universe. My work spans **AI**, **machine learning**, **IoT**, and **robotics**, but always with one goal: to push the boundary of what’s possible and meaningful.
+A systems thinker and builder, I dive into the intersection of **intelligence**, **emergent systems**, and **real-world complexity** — across AI, robotics, and space-inspired hardware.
 
-- 🔬 Currently: **Lead Data Science Intern** at Blink Analytics, leading work on **LLMs**, **RLHF**, and **AI-based evaluation systems**.
-- 🌊 Former AI Intern at **Seaweeds**, where I built systems to predict **Harmful Algal Blooms**.
-- 🛸 Builder of a **custom drone** with a self-designed PCB, flight controller, and real-time stabilization algorithms.
-- 🛰️ Researching **predictive maintenance** for rocket engines using multivariate time series and transformer models.
-- 💡 Advisor at **Mind Ripple**, PDEU's quizzing and knowledge club — where we ask the questions Google can’t answer.
-
----
-
-### 🚀 What Drives Me
-
-> "Curiosity is not a trait — it's a fuel."
-
-Whether it's a small system or a planetary-scale problem, I explore with tools like Python, TensorFlow, and hardware integrations — blending science fiction ideals with real-world engineering.
+- 🔭 Lead Data Science Intern @ **Blink Analytics**: LLMs, RLHF, and intelligent evaluation systems.
+- 🌊 Former AI Intern @ **Seaweeds**: Forecasted **Harmful Algal Blooms** with geospatial models.
+- 🚁 Creator of a fully **custom drone**: Self-designed PCB, sensor fusion, and flight logic.
+- 🚀 Researcher in **rocket engine maintenance** using transformers on multivariate time series.
+- 🧠 Advisor @ **Mind Ripple**, a space for unanswerable questions and wild curiosity.
 
 ---
 
-### 🛠️ My Stack
+### 🪐 Projects: My Personal Star System
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+<p align="center">
+  <img src="https://github.com/Meet2304/Meet2304/blob/main/celestial_projects.png" width="80%">
+</p>
 
----
+> Each project is a planet — orbiting curiosity, purpose, and engineering.
 
-### 🧪 Projects That Reflect Me
-
-- 🛰️ **Predictive Maintenance for Rocket Engines**  
-  Exploring Remaining Useful Life (RUL) modeling with LSTM & Transformer architectures on multivariate time series.  
-  _Tech: Python, Deep Learning, CMAPSS dataset_
-
-- 🛸 **Custom Drone System**  
-  Designed a drone from scratch — PCB, IMU, ESCs, flight control, PID loops, and all.  
-  _Tech: Embedded C, MPU6050, STM32_
-
-- 🌊 **HAB Prediction with AI**  
-  Built a real-time AI model to predict harmful algal blooms using satellite and ocean data.  
-  _Tech: ML, geospatial data, Python_
-
-- 🧠 **Project Polaris**  
-  LLM-powered interview platform that integrates candidate evaluation, SFT, and RLHF pipelines.  
-  _Tech: OpenAI API, LangChain, Streamlit, Python_
+| 🌌 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| **🛰️ Predictive Maintenance** | Built deep learning models (LSTM & Transformer) to predict RUL of rocket engine components | Python, CMAPSS, DL |
+| **🛸 Custom Drone** | Engineered a complete drone system — hardware + flight software | Embedded C, STM32, MPU6050 |
+| **🌊 HAB Prediction** | Built real-time ML pipelines to track ocean health | Python, Satellite Data, ML |
+| **🧠 Project Polaris** | AI-powered interview platform with SFT & RLHF integrations | OpenAI API, LangChain, Streamlit |
 
 ---
 
-### 📊 GitHub Stats
+### 🌌 Tech Stack: My Spacecraft
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,java,arduino,linux,git,vscode&theme=dark" />
+</p>
+
+---
+
+### 🧪 Ongoing Missions
+
+- 🛰️ Building time-series deep learning systems for **rocket engines**
+- 🧬 Exploring how large models learn from **human feedback**
+- 🤖 Blending hardware with AI: from **drones** to **intelligent edge systems**
+- 🪐 Creating a next-gen **data annotation system** that enables AI to scale meaningfully
+
+---
+
+### 📡 Transmission Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meet2304&show_icons=true&theme=tokyonight&count_private=true" width="48%">
@@ -72,16 +70,23 @@ Whether it's a small system or a planetary-scale problem, I explore with tools l
 
 ---
 
-### 🌍 Let's Connect
+### 🌍 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/meet-bhatt-655a89250/)
-- 🐦 [Twitter](https://twitter.com/Meet2304)
-- 📫 Email: meetbhatt2304@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/meet-bhatt-655a89250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Meet2304"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:meetbhatt2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Ethos
+
+> _“I am the master of my fate, I am the captain of my soul.”_  
+> — *William Ernest Henley*
+
+> _“People are neither rational nor irrational; they are, simply, human.”_  
+> — *Daniel Kahneman*
 
 ---
 
-### 🌌 My Ethos
-
-> _“I am the master of my fate, I am the captain of my soul”_  
-
----
