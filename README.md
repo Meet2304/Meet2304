@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-or-local-path/header.png" alt="Meet Bhatt Banner" width="100%">
+  <img src="https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Banner-1.png" alt="Meet Bhatt Banner" width="100%">
 </p>
 
 <h1 align="center">🌌 Meet Bhatt</h1>
