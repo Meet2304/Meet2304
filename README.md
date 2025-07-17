@@ -47,8 +47,18 @@ A systems thinker and builder, I dive into the intersection of **intelligence**,
 ### 🌌 Tech Stack: My Spacecraft
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,java,arduino,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,opencv,keras,numpy,pandas,matplotlib,seaborn&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,arduino,linux,git,vscode,raspberrypi,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=streamlit,jupyter,github,firebase,html,css&theme=dark" />
+</p>
+
+> 🧠 Focus Areas: Deep Learning, Computer Vision, Time Series Forecasting, LLMs, Embedded Systems, Edge AI  
 
 ---
 
