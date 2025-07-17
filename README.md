@@ -72,10 +72,11 @@ A systems thinker and builder, I dive into the intersection of **intelligence**,
 
 ### 📡 Transmission Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meet2304&show_icons=true&theme=tokyonight&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2304&layout=compact&theme=tokyonight" width="48%">
-</p>
+</div>
+
 
 ---
 
