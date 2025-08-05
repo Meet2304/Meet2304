@@ -15,8 +15,6 @@
 
 ### 🧭 About Me
 
-I don’t just write code — I **explore** with it.
-
 A systems thinker and builder, I dive into the intersection of **intelligence**, **emergent systems**, and **real-world complexity** — across AI, robotics, and space-inspired hardware.
 
 - 🔭 Lead Data Science Intern @ **Blink Analytics**: LLMs, RLHF, and intelligent evaluation systems.
