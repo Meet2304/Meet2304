@@ -2,99 +2,122 @@
   <img src="https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Banner-1.png" alt="Meet Bhatt Banner" width="100%">
 </p>
 
-<h1 align="center">🌌 Meet Bhatt</h1>
-<h3 align="center">Explorer of Intelligence, Systems & the Unknown</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-black?style=for-the-badge&logo=starship&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT%20Engineer-black?style=for-the-badge&logo=satellite&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20Explorer-black?style=for-the-badge&logo=rocket&logoColor=white">
-</p>
+<h1 align="center">Meet Bhatt</h1>
+<h3 align="center">Building intelligent systems at the edge of data, decisions, and reality</h3>
 
 ---
 
-### 🧭 About Me
+## About
 
-A systems thinker and builder, I dive into the intersection of **intelligence**, **emergent systems**, and **real-world complexity** — across AI, robotics, and space-inspired hardware.
+I design and build **intelligent systems** that operate under real-world constraints.  
+My work spans machine learning, computer vision, time-series modeling, and hardware–software co-design, with a focus on **decision-making systems that actually get used**.
 
-- 🔭 Lead Data Science Intern @ **Blink Analytics**: LLMs, RLHF, and intelligent evaluation systems.
-- 🌊 Former AI Intern @ **Seaweeds**: Forecasted **Harmful Algal Blooms** with geospatial models.
-- 🚁 Creator of a fully **custom drone**: Self-designed PCB, sensor fusion, and flight logic.
-- 🚀 Researcher in **rocket engine maintenance** using transformers on multivariate time series.
-- 🧠 Advisor @ **Mind Ripple**, a space for unanswerable questions and wild curiosity.
-
----
-
-### 🪐 Projects: My Personal Star System
-
-<p align="center">
-  <img src="https://github.com/Meet2304/Meet2304/blob/main/Meet-Github-Personal%20Star%20System.png" width="80%">
-</p>
-
-> Each project is a planet — orbiting curiosity, purpose, and engineering.
-
-| 🌌 Project | Description | Tech Stack |
-|-----------|-------------|------------|
-| **🛰️ Predictive Maintenance** | Built deep learning models (LSTM & Transformer) to predict RUL of rocket engine components | Python, CMAPSS, DL |
-| **🛸 Custom Drone** | Engineered a complete drone system — hardware + flight software | Embedded C, STM32, MPU6050 |
-| **🌊 HAB Prediction** | Built real-time ML pipelines to track ocean health | Python, Satellite Data, ML |
-| **🧠 Project Polaris** | AI-powered interview platform with SFT & RLHF integrations | OpenAI API, LangChain, Streamlit |
+- **Lead Data Science Intern @ Blink Analytics**  
+  LLM development, RLHF pipelines, and evaluation systems.
+- **Former AI Intern @ Seaweeds**  
+  Geospatial ML models for forecasting harmful algal blooms.
+- Built **Project Icarus**, a fully custom drone from PCB design to flight control logic  
+  ([GitHub Repository](https://github.com/Meet2304/Project-Icarus)).
+- Research experience in **predictive maintenance of rocket engines**.
+- President & Advisor @ **Mind Ripple**, a student-led intellectual forum.
 
 ---
 
-### 🌌 Tech Stack: My Spacecraft
+## Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,arduino,linux,git,vscode,raspberrypi,docker&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,html,css&theme=dark" />
-</p>
+### Project Talaria  
+**Computer Vision–Driven Sports Performance Intelligence**
 
-> 🧠 Focus Areas: Deep Learning, Computer Vision, Time Series Forecasting, LLMs, Embedded Systems, Edge AI  
- 
+- [Website](https://project-talaria.vercel.app)  
+- [GitHub Repository](https://github.com/Meet2304/Project-Talaria)
 
----
+Talaria is a computer vision system designed to analyze, score, and provide feedback on skateboarding performances.  
+The project was inspired by observing judging bias in competitive events and aims to introduce **objective, repeatable evaluation**.
 
-### 🧪 Ongoing Missions
-
-- 🛰️ Building time-series deep learning systems for **rocket engines**
-- 🧬 Exploring how large models learn from **human feedback**
-- 🤖 Blending hardware with AI: from **drones** to **intelligent edge systems**
-- 🪐 Creating a next-gen **data annotation system** that enables AI to scale meaningfully
+Key focus areas:
+- Video-based trick detection and temporal segmentation  
+- Motion tracking and performance metric extraction  
+- Scoring logic designed to reduce subjectivity  
+- Architecture suitable for real-time feedback and judge-assist tools  
 
 ---
 
-### 📡 Transmission Stats
+### Project Phoenix  
+**Explainable Cervical Cancer Cell Classification**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meet2304&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2304&layout=compact&theme=tokyonight" width="48%">
-</div>
+- [Website](https://project-phoenixx.vercel.app)  
+- [GitHub Repository](https://github.com/Meet2304/Project-Phoenix)
 
+An end-to-end deep learning pipeline for cervical cancer cell classification with a strong emphasis on **model interpretability**.
 
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/meet-bhatt-655a89250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Meet2304"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:meetbhatt2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Key focus areas:
+- ConvNeXtV2 and EfficientNetV2-S based architectures  
+- Concept-guided attention regularization  
+- Advanced preprocessing using NLM denoising and CLAHE  
+- Research manuscript currently in preparation  
 
 ---
 
-### 🧠 Ethos
+### Project Vigil  
+**Malicious Prompt Detection and Sanitization via Leave-One-Out Analysis**
 
-> _“I am the master of my fate, I am the captain of my soul.”_  
-> — *William Ernest Henley*
+- [GitHub Repository](https://github.com/Meet2304/Project-Vigil)
 
-> _“People are neither rational nor irrational; they are, simply, human.”_  
-> — *Daniel Kahneman*
+Project Vigil is a research-focused system for detecting and sanitizing malicious prompts in large language models.  
+It addresses limitations of conventional binary prompt filtering by introducing a **token-level causal analysis** framework.
+
+Core ideas explored:
+- Malicious prompt detection using sentence embeddings with an XGBoost classifier  
+- A **Leave-One-Out (LODO)** strategy to measure the causal contribution of individual tokens  
+- Identification of compound and obfuscated malicious prompts that evade standard detectors  
+- Prompt **sanitization** by selectively removing or neutralizing high-impact tokens while preserving original user intent  
+
+The project emphasizes **interpretability, robustness, and user experience**, particularly in high-stakes LLM deployments.
 
 ---
 
+## Selected Past Work
+
+| Project | Summary | Technologies |
+|-------|--------|-------------|
+| Predictive Maintenance | Remaining Useful Life prediction for rocket engines | Python, CMAPSS, Deep Learning |
+| **Project Icarus** | Custom drone: hardware, firmware, and control systems | STM32, Embedded C, Sensors |
+| HAB Prediction | ML pipelines for ocean health monitoring | Python, Satellite Data |
+
+---
+
+## Technical Focus
+
+**Core Areas**  
+Machine Learning • Computer Vision • Time Series Modeling • Explainable AI • LLMs • Embedded Systems • Edge AI
+
+**Tools & Platforms**  
+Python, PyTorch, TensorFlow, OpenCV  
+C, Arduino, Linux, Docker, Git, VS Code, Raspberry Pi
+
+---
+
+## Current Interests
+
+- Vision-based evaluation systems for sports and human performance  
+- Time-series modeling for aerospace and industrial systems  
+- Robustness, interpretability, and alignment in large language models  
+- Bridging AI models with physical systems  
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/meet-bhatt-655a89250/)
+- [Twitter / X](https://twitter.com/Meet2304)
+- [Email](mailto:meetbhatt2304@gmail.com)
+
+---
+
+## Ethos
+
+> *I am the master of my fate, I am the captain of my soul.*  
+> — William Ernest Henley  
+
+> *People are neither rational nor irrational; they are simply human.*  
+> — Daniel Kahneman
