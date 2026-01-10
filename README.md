@@ -7,15 +7,21 @@
   <strong>Building intelligent systems at the edge of data, decisions, and reality.</strong>
 </p>
 
+<!-- Primary identity -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Intelligent%20Systems%20Builder-000000?style=for-the-badge" />
+</p>
+
+<!-- Contact & presence -->
 <p align="center">
   <a href="mailto:meetbhatt2304@gmail.com">
-    <img src="https://img.shields.io/badge/Email-meetbhatt2304%40gmail.com-2fd72f?style=flat-square&logo=gmail&logoColor=white&color=202020" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-meetbhatt2304%40gmail.com-202020?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/meet-bhatt-655a89250/">
-    <img src="https://img.shields.io/badge/LinkedIn-Meet%20Bhatt-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Meet%20Bhatt-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Meet2304">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-@Meet2304-black?style=flat-square&logo=x&logoColor=white&color=black" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-@Meet2304-black?style=flat-square&logo=x&logoColor=white" />
   </a>
 </p>
 
